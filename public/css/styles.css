@@ -4,7 +4,7 @@ body {
     font-family: 'Arial', sans-serif;
     background-color: #f4f1ea;
     color: #333;
-    background-image: url('/images/background.jpeg'); /* Added background image */
+    
     background-size: cover; /* Ensures the background covers the entire viewport */
     background-position: center; /* Centers the background image */
 }
